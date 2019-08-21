@@ -1,5 +1,4 @@
 import React from 'react';
-import About from './About';
 import { Tab } from 'semantic-ui-react';
 import { Div } from '../styles/tabStyles';
 
