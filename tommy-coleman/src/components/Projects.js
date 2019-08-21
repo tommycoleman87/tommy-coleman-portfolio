@@ -7,7 +7,7 @@ const Projects = () => {
             <h1>Projects</h1>
             <div>
                 <h2>Harry Potter House Points Project</h2>
-                <a href='https://react-redux-app-g4ch05rym.now.sh/' target='_blank'><ProjectImg src={hpprojectthumbnail} /></a>
+                <a href='https://redux-app-uahmz1vn6.now.sh/' target='_blank'><ProjectImg src={hpprojectthumbnail} /></a>
             </div>
         </div>
     )
