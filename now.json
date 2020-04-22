@@ -1,9 +1,0 @@
-
-{
-    "version": 2,
-    "name": "tommy-coleman",
-    "builds": [{ "src": "tommy-coleman/package.json", "use": "@now/static-build", "config": {"distDir": "build"} }],
-    "routes": [
-        { "src": "/(.*)", "dest": "tommy-coleman/$1" }
-    ]
-}
